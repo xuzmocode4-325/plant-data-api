@@ -1,0 +1,6 @@
+Django>=5.1.5,<5.2
+django-ninja
+psycopg2>=2.9.10,<2.10
+drf-spectacular<=0.28
+pillow>=11.1.0,<11.2
+uwsgi>=2.0.28,<2.1
